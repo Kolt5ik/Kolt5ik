@@ -1,20 +1,17 @@
-<div align="center">
+<h1 align="center">KOLT5IK</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,windows&theme=dark" height="48" alt="Python, Git, GitHub, Linux, Windows" />
+</p>
 
-# Kolt5ik
+<hr>
+
 <br>
 
-![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=a78bfa)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=a78bfa)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kolt5ik&show_icons=true&theme=midnight-purple&hide_border=false&border_color=252530&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="460" alt="Статистика GitHub" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolt5ik&layout=compact&hide_border=false&border_color=252530&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="340" alt="Используемые языки" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolt5ik&layout=compact&hide_border=true&bg_color=161b22&title_color=a78bfa&text_color=c9d1d9" alt="Языки в публичных репозиториях" />
-
-<br><br>
-
-### Активность
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="800" alt="Объёмный календарь активности GitHub" />
-
-</div>
